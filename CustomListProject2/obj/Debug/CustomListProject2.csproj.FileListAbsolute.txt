@@ -1,0 +1,6 @@
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\CustomListProject2\bin\Debug\CustomListProject2.exe.config
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\CustomListProject2\bin\Debug\CustomListProject2.exe
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\CustomListProject2\bin\Debug\CustomListProject2.pdb
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\CustomListProject2\obj\Debug\CustomListProject2.exe
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\CustomListProject2\obj\Debug\CustomListProject2.pdb
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\CustomListProject2\obj\Debug\CustomListProject2.csprojAssemblyReference.cache

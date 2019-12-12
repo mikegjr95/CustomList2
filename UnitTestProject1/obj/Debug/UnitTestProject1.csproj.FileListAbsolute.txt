@@ -1,0 +1,16 @@
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\CustomListProject2.exe
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\CustomListProject2.pdb
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\CustomListProject2.exe.config
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\mikeg\Desktop\DevCodeCamp\Week05\Projects\CustomListProject2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
